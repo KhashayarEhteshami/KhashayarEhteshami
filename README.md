@@ -1,7 +1,6 @@
 -  Hi, I’m @KhashayarEhteshami
--  I’m interested in machine learning
--  I’m currently learning deep learning
--  How to reach me khashayarehteshami1376@gmail.com
+-  I’m interested in machine learning and deep learning
+-  You can reach me via khashayarehteshamy@gmail.com
 
 <!---
 KhashayarEhteshami/KhashayarEhteshami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
